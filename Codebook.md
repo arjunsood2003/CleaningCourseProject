@@ -5,7 +5,8 @@ date: "10 June 2017"
 output: html_document
 ---
 
-##Metadata Dictionary 
+##Metadata Dictionary: 
+###Peek into the variables used in the code 
 
 ####activity_labels  
 data.frame [ 6 x 2 ]  

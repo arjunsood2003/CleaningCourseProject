@@ -39,7 +39,7 @@ _**Step 4: Update with descriptive column names**_
 - the dataset's columns are updated to reflect the data they contain, starting with "subject_id", "activity", and the set of all feature names. For detailed understanding of the feature names, please refer features_info.txt  
   
   
-_**Step 5: Obtain final data set with mean values for each subejct and activity** _ 
+_**Step 5: Obtain final data set with mean values for each subejct and activity**_ 
 - The dataframe is converted into a more usable dplyr table_df  
 - It is then grouped by subject and activity using the group_by function   
 - The summarize_each function is used to summarize all the features data columns by the groups defined    
@@ -50,5 +50,5 @@ _**Step X: Write out the final file**_
   
   
   
-**Hope these explanations are helpful. For more details on the variables, please refer Codebook.md. For more information on the feature variables, refer features_info.txt **
+_**Hope these explanations are helpful. For more details on the variables, please refer Codebook.md. For more information on the feature variables, refer features_info.txt **_
 

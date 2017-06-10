@@ -1,0 +1,10 @@
+---
+title: "Codebook for CleaningAndGettingDataCourse Project on Coursera"
+author: "Arjun Sood"
+date: "10 June 2017"
+output: html_document
+---
+
+# Metadata Dictionary 
+##For My Coursera Course Final Project
+
